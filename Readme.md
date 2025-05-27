@@ -3,7 +3,7 @@
 1. Клонувати репозиторій:
 
    ```bash
-   git clone git@github.com:andrewvoinarovskyi/react-node-ts-project.git
+   git clone https://github.com/andrewvoinarovskyi/react-node-ts-project.git
    cd react-node-ts-project
 
    ```
